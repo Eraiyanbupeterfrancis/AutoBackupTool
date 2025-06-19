@@ -1,0 +1,9 @@
+backup.env
+client_secrets.json
+mycreds.txt
+*.enc
+*.zip
+*.spec
+dist/
+build/
+__pycache__/
