@@ -35,7 +35,7 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AutoBackupTool.git
+git clone https://github.com/Eraiyanbupeterfrancis/AutoBackupTool.git
 cd AutoBackupTool
 ```
 
